@@ -1,9 +1,10 @@
 {
     "type": "MOD_INFO",
-    "mod_type": "SUPPLEMENTAL",
     "ident": "jury_rigged_robots",
     "name": "Jury-Rigged Robots",
+    "authors": [ "Sunshine", "TheSalamanderDJ" ],
+    "maintainers": [ "Marcin Leśniewski" ],
     "description": "Options for salvaging, jury rigging, and reprogramming broken robots.",
-    "author": "Sunshine, TheSalamanderDJ",
-    "path": ""
+    "category": "misc_additions",
+    "version": "1.1"
 }
